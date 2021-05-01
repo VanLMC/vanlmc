@@ -1,16 +1,14 @@
-### Hi there 👋
+# Vanderlei Chagas
 
-<!--
-**VanLMC/vanlmc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img align="center" height="300" width="400" src="https://media.giphy.com/media/tczJoRU7XwBS8/giphy.gif">
+</p>
 
-Here are some ideas to get you started:
+Hi! I love coming up with things and building them. I'm currently a Jr software developer and Computer Science student. I also have a youtube channel :p
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Reach out to me [🦾](https://emojipedia.org/mechanical-arm/)[🤖](https://emojipedia.org/robot/)
+
+
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCbNrfMN64fBFW7o0sCREOVg/videos)](https://www.youtube.com/channel/UCbNrfMN64fBFW7o0sCREOVg/videos) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanderlei-lopes-622823165/)](https://www.linkedin.com/in/vanderlei-lopes-622823165/)
+
+
