@@ -4,7 +4,7 @@
   <img align="center" height="300" width="400" src="https://media.giphy.com/media/I7kkegrRyNrk4/giphy.gif">
 </p>
 
-Hi! I love coming up with things and building them. I'm currently a Jr software developer and a Computer Science student. I also have a youtube channel :p
+Hi! I love coming up with things and building them. I'm currently a Software Developer and a Computer Science student. I also have a youtube channel :p
 
 Reach out to me [🦾](https://emojipedia.org/mechanical-arm/)[🤖](https://emojipedia.org/robot/)
 
